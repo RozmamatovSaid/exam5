@@ -1,0 +1,32 @@
+name: exam5
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.8.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cloud_firestore: ^5.6.10
+  firebase_core: ^3.15.0
+  riverpod: ^2.6.1
+  provider: ^6.1.5
+  flutter_riverpod: ^2.6.1
+  lottie: ^3.3.1
+  flutter_inappwebview: ^6.1.5
+  webview_flutter_android: ^4.7.0
+  youtube_player_flutter: ^9.1.1
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/

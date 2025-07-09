@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869282211781",
+    "project_id": "video-player-b89ae",
+    "storage_bucket": "video-player-b89ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869282211781:android:e675766ab6606023944dac",
+        "android_client_info": {
+          "package_name": "com.example.exam5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL5m0dHUZ3_mF1KfSiDf8c3sx-rSP6UaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
