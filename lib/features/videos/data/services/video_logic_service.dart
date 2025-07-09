@@ -72,7 +72,7 @@ class VideoLogicService {
 
       final model = VideoProgressModel(
         videoId: nextVideo.id,
-        status: VideoStatus.korilyapti, 
+        status: VideoStatus.korilyapti,
         watchedAt: DateTime.now(),
         finishedAt: existing?.finishedAt,
       );
