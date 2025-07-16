@@ -14,6 +14,7 @@ void main() async {
 
 void checkFirestoreConnection() async {
   try {
+    final s = DateTime.now().toIso8601String().split("T")[0];
     final snapshot = await FirebaseFirestore.instance
         .collection('videos')
         .get();

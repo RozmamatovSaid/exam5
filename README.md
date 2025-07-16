@@ -3,6 +3,7 @@
 A new Flutter project.
 
 # 📺 Flutter Video Course App
+# foydalanish uchun YouTube URL: https://youtube.com/shorts/A4aqvBeMp6s?feature=share
 
 Bu ilova Flutter yordamida ishlab chiqilgan bo‘lib, foydalanuvchilarga **ketma-ket videolar**ni tomosha qilish imkoniyatini beradi. Har bir video ko‘rilganidan so‘ng, keyingi video **24 soat**dan keyin ochiladi.
 
